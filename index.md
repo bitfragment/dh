@@ -56,7 +56,7 @@ After rising from 2009–2014, the total number of "digital humanities" sessions
 
 After rising from 2009–2014, the proportion of "digital humanities" sessions at the Modern Language Association's annual convention declined from **9.6%** in 2014, to **7.0**% in 2015, to **5.2%** in 2016, to **5.0%** in 2017, to **4.0%** in 2018.
 
-Mark Sample's data for 2009–2015 (after that line headed downward in 2015, Sample ceased publishing his annual composite bar graph):
+Mark Sample's data for 2009–2015 (after that line headed downward in 2015, Sample ceased publishing his annual celebrations):
 
 [![Image]({{ site.baseurl }}/images/sample-dh-mla-2015.png "Digital Humanities and the MLA")](http://www.samplereality.com/2014/11/23/digital-humanities-and-the-mla/ "Mark Sample")
 
