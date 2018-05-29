@@ -44,10 +44,6 @@ The 2017–2018 publication year suggests no growth in the number of opportuniti
 * [PDFs of the MLA Job Information List](https://www.mla.org/Resources/Career/Job-Information-List/PDFs-of-the-MLA-Job-Information-List) (for past years' listings)
 * [Reports on the MLA Job Information List](https://www.mla.org/Resources/Career/Job-Information-List/Reports-on-the-MLA-Job-Information-List) (for past years' totals)
 
-* [PDF file]({{site.url}}/dh/files/2015-2016.pdf) including all ads that used the phrase "digital humanities" to specify a desired candidate interest or specialty, either primary or secondary, in 2015-16.
-* [PDF file]({{site.url}}/dh/files/2016-2017.pdf) including all ads that used the phrase "digital humanities" to specify a desired candidate interest or specialty, either primary or secondary, in 2016-17
-* [PDF file]({{site.url}}/dh/files/2017-2018.pdf) including all ads that used the phrase "digital humanities" to specify a desired candidate interest or specialty, either primary or secondary, in 2017-18
-
 ----
 
 ## 2. "Digital Humanities" at the MLA convention
@@ -124,7 +120,7 @@ Add data on DH-devoted conference attendance, starting with [Scott Weingart's da
 
 
 
-[nodhnojob]: https://chronicle.com/article/No-DH-No-Interview/132959/
+[nodhnojob]:  https://chronicle.com/article/No-DH-No-Interview/132959/
 [postdrafts]: https://github.com/bitfragment/bitfragment.github.io/tree/master/_drafts
-[mlajil]:       https://www.mla.org/Resources/Career/Job-Information-List
-[mlaconv]:   https://www.mla.org/Convention
+[mlajil]:     https://www.mla.org/Resources/Career/Job-Information-List
+[mlaconv]:    https://www.mla.org/Convention
