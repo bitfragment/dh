@@ -21,13 +21,11 @@ This page began as a simple test of a prediction made by William Pannapacker in 
 
 ### Summary, 2013-2018
 
-The number of jobs advertised annually in the MLA JIL for scholars whose primary specialty or other professional identification is "digital humanities" is close to zero. The phrase "digital humanities" does appear somewhat more often as an identifier of a desired subfield or supplementary specialty. Still, the proportion of the latter --- that is, of job advertisements in the MLA JIL in which the phrase "digital humanities" appears in any way at all, even as one of many possible, non-required, even non-preferred subfield or subdisciplinary interests --- has yet to exceed 6.1% of the total number of advertisements annually.
+The number of jobs advertised annually in the MLA JIL for scholars whose primary specialty or other professional identification is "digital humanities" is close to zero. The phrase "digital humanities" does appear somewhat more often as an identifier of a desired subfield or supplementary specialty. Still, the proportion of the latter --- that is, of job advertisements in the MLA JIL in which the phrase "digital humanities" appears in any way at all, even as one of many possible, non-required, even non-preferred subfield or subdisciplinary interests --- has yet to exceed 6% of the total number of advertisements annually.
 
 This answers Pannapacker's pronouncement directly. Under the circumstances, a five to six per cent advantage, in the non-possible best case (that is, a case in which one is qualified for *every* position that includes the phrase "digital humanities") is without meaning. If you can't justify your interests except through fables of market demand that collapse in the face of simple counting, then you're doing it wrong.
 
-At the end of the 2016–17 publication year, both the total number and proportion of such positions had declined two years in a row, from **91** and **5.8%** in 2014–15, to **77** and **5.2%** in 2015–16, to **69** and just barely **4.8%** in 2016–17. Both were the lowest measures since before 2013–14, when I began counting.
-
-The 2017–2018 publication year suggests no growth in the number of opportunities over four consecutive years. If there's been any change at all, it's continued decline in the number of such positions since 2014, if not a new low.
+At the end of the 2016–17 publication year, both the total number and proportion of such positions had declined two years in a row, from **91** and **5.8%** in 2014–15, to **77** and **5.2%** in 2015–16, to **69** and just barely **4.8%** in 2016–17. Both were the lowest measures since before 2013–14, when I began counting. The 2017–2018 publication year (**77** positions and **6.0**%) suggests no growth in the number of opportunities over four consecutive years. If there's been any change at all, it's continued decline in the number of such positions since 2014, if not a new low.
 
 | Academic year              | All positions advertised  | *Do not* include phrase "DH"  | *Do* include phrase "DH" | % of all ads including phrase "DH"   |
 |:---------------------------|:--------|:-----|:-----|:-------|
@@ -35,7 +33,7 @@ The 2017–2018 publication year suggests no growth in the number of opportuniti
 | 2014–15                    | ↓ 1575  | 1484 | ↑ 91 | ↑ 5.8% |
 | 2015–16                    | ↓ 1458  | 1382 | ↓ 77 | ↓ 5.2% |
 | 2016–17                    | ↓ 1437  | 1368 | ↓ 69 | ↓ 4.8% |
-| 2017–18 (as of 2018-06-29) | ↓ 1284  | 1208 | ↑ 76 | ↑ 5.9% | 
+| 2017–18 (final as of 2018-07-06) | ↓ 1288  | 1211 | ↑ 77 | ↑ 6.0% | 
 
 
 ### Sources of data
