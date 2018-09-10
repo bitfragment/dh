@@ -33,7 +33,8 @@ At the end of the 2016–17 publication year, both the total number and proporti
 | 2014–15                    | ↓ 1575  | 1484 | ↑ 91 | ↑ 5.8% |
 | 2015–16                    | ↓ 1458  | 1382 | ↓ 77 | ↓ 5.2% |
 | 2016–17                    | ↓ 1437  | 1368 | ↓ 69 | ↓ 4.8% |
-| 2017–18 (final as of 2018-07-06) | ↓ 1288  | 1211 | ↑ 77 | ↑ 6.0% | 
+| 2017–18                    | ↓ 1288  | 1211 | ↑ 77 | ↑ 6.0% | 
+| 2018–19 (as of 2018-09-10) |    204  |  182 |   22 |        |
 
 
 ### Sources of data
@@ -99,6 +100,7 @@ With the exception of 2014, total member registrations for "Day of DH" declined 
 | 2015   | ↓ 218         |
 | 2016   | ↓ 188         |
 | 2017   | ↓ 137         |
+| 2018   | No event      |
 
 
 ### Sources of data
