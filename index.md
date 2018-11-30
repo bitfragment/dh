@@ -1,4 +1,4 @@
-]---
+---
 title: '"Digital humanities" by the numbers'
 ---
 
