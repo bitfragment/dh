@@ -96,9 +96,9 @@ Additional data from 2014–2019 convention programs:
 
 "Day of DH" is an annual one-day participatory celebration facilitated by member registration and blogging on a designated web site. Every Day of DH site since 2012 has reported a total number of registrants.
 
-### Summary, 2012–2018
+### Summary, 2012–2019
 
-With the exception of 2014, total member registrations for "Day of DH" declined every year from 2012–2017. No "Day of DH" was organized in 2018.
+With the exception of 2014, total member registrations for "Day of DH" declined every year from 2012–2017. No "Day of DH" was organized in 2018 or 2019.
 
 | Year   | Registrations |
 | :----- | :------------ |
@@ -109,6 +109,7 @@ With the exception of 2014, total member registrations for "Day of DH" declined 
 | 2016   | ↓ 188         |
 | 2017   | ↓ 137         |
 | 2018   | No event      |
+| 2019   | No event      |
 
 
 ### Sources of data
