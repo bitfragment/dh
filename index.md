@@ -9,11 +9,15 @@ title: '"Digital humanities" by the numbers'
 * toc
 {:toc}
 
+## Note: page no longer updated (1 July 2019)
+
+As of 1 July 2019, the MLA Job List has a new interface. It provides no way to search or mark positions by date of publication, which will make keeping an ongoing tally much more difficult. Since it is fair to describe all the dynamics described on this page as static or declining, I see no good reason to keep updating it.
+
 ## What, why
 
-This page began as a simple test of a prediction made by William Pannapacker in a 2012 *Chronicle of Higher Education* column titled  "['No DH, No Interview'][nodhnojob]." Take it as a now slightly broader yet still blunt and informal test of generalizing claims for "digital humanities" as a growth area within Pannapacker's own main scholarly discipline, English studies (which is also my own).
+This page began as a simple test of a prediction made by William Pannapacker in a 2012 *Chronicle of Higher Education* column titled  "['No DH, No Interview'][nodhnojob]." Take its final form as a slightly broader yet still blunt and informal test of generalizing claims for "digital humanities" as a growth area within Pannapacker's own main scholarly discipline, English studies (which is also my own).
 
-## Long-term trends
+## Long-term trends: 2019
 
 Within the domain of the discipline of English studies in the United States as represented by the Modern Language Association of America, the discipline's main organization, there are two indicators. 
 1. The number of "digital humanities" session at the MLA's annual convention has been in continuous decline since 2014, a peak of the session-counting celebration conducted annually by enthusiasts like Pannapacker and Mark Sample. By 2019, the number of sessions at the convention whose organizers were willing to use the term "digital humanities" in a session title, in a session description, or as an official session keyword or tag in the published convention program had declined to 16, or 2.1% of the total number of sessions. While this is perfectly respectable and entirely appropriate, it is pitiful when set alongside the triumphalism that accompanied that number's rapid escalation between 2009 and 2014. 
@@ -25,13 +29,13 @@ Within the domain of the discipline of English studies in the United States as r
 
 "MLA JIL" is the [Job Information List of the Modern Language Association of America][mlajil].
 
-### Summary, 2013-2018
+### Summary, 2013-2019
 
 The number of jobs advertised annually in the MLA JIL for scholars whose primary specialty or other professional identification is "digital humanities" is close to zero. The phrase "digital humanities" does appear somewhat more often as an identifier of a desired subfield or supplementary specialty. Still, the proportion of the latter --- that is, of job advertisements in the MLA JIL in which the phrase "digital humanities" appears in any way at all, even as one of many possible, non-required, even non-preferred subfield or subdisciplinary interests --- has yet to exceed 6% of the total number of advertisements annually.
 
 This answers Pannapacker's pronouncement directly. Under the circumstances, a five to six per cent advantage, in the non-possible best case (that is, a case in which one is qualified for *every* position that includes the phrase "digital humanities") is without meaning. If you can't justify your interests except through fables of market demand that collapse in the face of simple counting, then you're doing it wrong.
 
-At the end of the 2016–17 publication year, both the total number and proportion of such positions had declined two years in a row, from **91** and **5.8%** in 2014–15, to **77** and **5.2%** in 2015–16, to **69** and just barely **4.8%** in 2016–17. Both were the lowest measures since before 2013–14, when I began counting. The 2017–2018 publication year (**77** positions and **6.0**%) suggests no growth in the number of opportunities over four consecutive years. If there's been any change at all, it's continued decline in the number of such positions since 2014, if not a new low.
+At the end of the 2016–17 publication year, both the total number and proportion of such positions had declined two years in a row, from **91** and **5.8%** in 2014–15, to **77** and **5.2%** in 2015–16, to **69** and just barely **4.8%** in 2016–17. Both were the lowest measures since before 2013–14, when I began counting. The 2017–2018 publication year (**77** positions and **6.0**%) and 2018–2019 publication year (**75** positions and **5.8%**) suggested no growth in the number of opportunities over five consecutive years. If there's been any change at all, it's continued decline in the number of such positions since 2014.
 
 | Academic year              | All positions advertised  | *Do not* include phrase "DH"  | *Do* include phrase "DH" | % of all ads including phrase "DH"   |
 |:---------------------------|:--------|:-----|:-----|:-------|
@@ -40,7 +44,7 @@ At the end of the 2016–17 publication year, both the total number and proporti
 | 2015–16                    | ↓ 1458  | 1382 | ↓ 77 | ↓ 5.2% |
 | 2016–17                    | ↓ 1437  | 1368 | ↓ 69 | ↓ 4.8% |
 | 2017–18                    | ↓ 1288  | 1211 | ↑ 77 | ↑ 6.0% | 
-| 2018–19 (as of 2019-06-21) |   1302  | 1227 | ↓ 75 | ↓ 5.8% | 
+| 2018–19                    |   1302  | 1227 | ↓ 75 | ↓ 5.8% | 
 
 
 ### Sources of data
